@@ -23,17 +23,17 @@ nav{
     font-size: 20px;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 
-nav div ul {
+nav ul {
     list-style-type: none;
 }
 
